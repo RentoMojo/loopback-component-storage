@@ -1,0 +1,9 @@
+{
+  "15e94ba5a9ca0311e13e77a7fbbc7f94": "FileSystemProvider: Path does not exist: {0}",
+  "3771d49a50931967a6723b7cf727c1a4": "FileSystemProvider: Invalid name: ",
+  "46eae9cadaffe869875d63bfcd0fa9cf": "FileSystemProvider: Invalid name: {0}",
+  "c871292a8e450895cbb4e9ffe8cbe0e0": "FileSystemProvider: Invalid directory: {0}",
+  "c9fb0aba850059a14f4ed5e045e4ec3e": "Invalid name: {0}",
+  "3f46ec73d758e754604037dbacf96d9c": "maxFileSize exceeded, received {0} bytes of field data (max is {1})",
+  "ac1b20c25fcfe61ae67527b63a60cc53": "maxFieldsSize exceeded, received {0} bytes of field data"
+}
